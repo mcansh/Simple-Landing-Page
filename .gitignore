@@ -1,4 +1,5 @@
-
 *.codekit
 
 *.sassc
+
+*.sass-cache
