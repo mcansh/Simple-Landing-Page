@@ -57,9 +57,7 @@ li {
   width: 272px;
   height: 272px;
   display: block;
-  margin: 0 auto;
-  margin-bottom: 40px;
-  margin-top: 5px;
+  margin: 5px auto 40px auto;
   background: #F3F3F3;
   background-image: url("https://avatars1.githubusercontent.com/u/11698668");
   background-size: cover;
